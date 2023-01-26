@@ -1,0 +1,9 @@
+#База данных над которыми проводиться исследование
+data/dst-3.0_16_1_hh_database.csv
+
+#Таблица по курсам валют
+data/ExchangeRates.csv
+
+data/hh_database.csv
+
+**/__pycache__/
