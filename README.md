@@ -3,7 +3,7 @@
 ## Оглавлелние
 [1. Описание проекта](https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/master/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/master/README.md#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/master/README.md#Какой-кейс-решаем)
 
 [3. Краткая информация о данных](https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/master/README.md#Краткая-информация-о-данных)
 
@@ -26,7 +26,7 @@ https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/master/Project-1.
 
 :arrow_up:[к оглавлнию](https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/master/README.md#Оглавлелние)
 
-### Какой кейс решаем?
+### Какой кейс решаем
 - Внимательно изучаем детали задачи.
 - Ознакомимся с дополнительным теоретическим материалом, который даётся перед заданием.
 - Воспользуемся советами и подсказками при выполнении проекта.
