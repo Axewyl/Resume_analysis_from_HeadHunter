@@ -1,27 +1,30 @@
 # Проект-1. Анализ резюме из HeadHunter
 
 ## Оглавлелние
-[1. Описание проекта](https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/main/Data%20Science/Project_0/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/master/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/main/Data%20Science/Project_0/README.md#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/master/README.md#Какой-кейс-решаем?)
 
-[3. Краткая информация о данных](https://github.com/Axewyl/Resume_analysis_from_HeadHunter/tree/main/Data%20Science/Project_0/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/master/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом]()
+[4. Этапы работы над проектом](https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/master/README.md#Этапы-работы-над-проектом)
 
-[5. Результат]()
+[5. Результат](https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/master/README.md#Результаты)
 
-[6. Выводы]()
+[6. Выводы](https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/master/README.md#Выводы)
 
 ### Описание проекта
 В нашем распоряжении база резюме от соискателей, выгруженная с сайта поиска вакансий *hh.ru*.
 
 Файл с исходными данными о резюме вы можете скачать [здесь](https://drive.google.com/file/d/1-VHPNxV_KmodxAGc-7ds2ysp6AHki_nt/view?usp=share_link).
-Файл с исходными данными о курсах валют вы можете скачать [здесь](https://drive.google.com/file/d/1-WEtU7wc2ZmoOvdl3RlRBNOZlRbN2zTM/view?usp=share_link)
-Так же рекомедуем:
- В проекте на *GitHube* не отображаются графики *plotly*. Для успешного просмотра перейдите на [nbviewer](https://nbviewer.org/) и вставте ссылку https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/master/Project-1.%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter.ipynb
 
-:arrow_up:[к оглавлнию](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_0/README.md#Оглавлелние)
+Файл с исходными данными о курсах валют вы можете скачать [здесь](https://drive.google.com/file/d/1-WEtU7wc2ZmoOvdl3RlRBNOZlRbN2zTM/view?usp=share_link)
+
+**Так же рекомедуем**. В проекте на *GitHube* не отображаются графики *plotly*. Для успешного просмотра перейдите на [nbviewer](https://nbviewer.org/) и вставте ссылку:
+
+https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/master/Project-1.%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter.ipynb
+
+:arrow_up:[к оглавлнию](https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/master/README.md#Оглавлелние)
 
 ### Какой кейс решаем?
 - Внимательно изучаем детали задачи.
@@ -77,4 +80,4 @@
 - Мужчины желают получать приблизительно на 25-100% больше чем женщины.
 - Удалённая работа имеет самый высокую границу по заработной плате.
 
-:arrow_up:[к оглавлнию](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_0/README.md#Оглавлелние)
+:arrow_up:[к оглавлнию](https://github.com/Axewyl/Resume_analysis_from_HeadHunter/blob/master/README.md#Оглавлелние)
